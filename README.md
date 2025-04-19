@@ -3,7 +3,7 @@ PHEAPCHANDAVID/PHEAPCHANDAVID is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="./Code Hacking GIF by Pizza Ninjas.gif" alt="Nebula Demo" width="600"/>
+  <img src="./Cat Reaction GIF.gif" alt="Nebula Demo" width="600"/>
 </div>
 
 # 🌌 Epic Nebula Project
